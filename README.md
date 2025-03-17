@@ -15,20 +15,6 @@ Together, we have developed an innovative solution leveraging **SharePoint, Viva
 
 ## 🚀 Solution Overview  
 
-### 🔹 Viva Connections Dashboard Experiences  
-> *We built a custom dashboard using Adaptive Cards to display personalized announcements, quick links, and notifications.*  
-
-### 🔹 OOTB Intranet (Designs Utilizing Out-of-the-Box Features)  
-> *Using SharePoint’s OOTB features, we created an intuitive intranet with news feeds, document repositories, and navigation enhancements.*  
-
-### 🔹 Capex System (Extensible Experiences with SPFx)  
-> *Designed a structured Capex approval system with SPFx-based web parts for seamless request submission and tracking.*  
-
-### 🔹 CMS System with Chatbot (Usage Scenarios for SharePoint Agents)  
-> *Integrated a chatbot powered by Azure Bot Services to assist users with content retrieval, FAQs, and workflow guidance.*  
-
-## 📂 Project Details  
-
 ### 1️⃣ Viva Connections Dashboard  
 📌 **Category:** Viva Connections Dashboard Experiences  
 📌 **Features:** Centralized company resources, announcements, and applications  
@@ -52,8 +38,7 @@ Our hackathon project demonstrates how **Microsoft 365 technologies** can create
 - Expand the **Capex system** with **Power BI dashboards** for financial insights  
 - Enhance the **chatbot’s AI capabilities** using **Cognitive Services**  
 - Introduce **multi-platform access** via **Microsoft Teams integration**  
-
-🔗 **GitHub Repository:** [GitHub Link Here]  
+ 
 🎥 **Watch the Video:** [Click here](https://drive.google.com/file/d/1UiKmtau--vwwNL4_onOEZE-otUQ0uT61/view)  
 
 ---
