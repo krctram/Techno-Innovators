@@ -3,9 +3,13 @@
 ## 📢 Introduction  
 Hello everyone! I’m **Ramanachiappan**, Team Lead at TechnoRUCS, and I’m thrilled to present our **SharePoint Hackathon** project.  
 We are **Team Techno Innovators**, consisting of:  
-- **Arunraj**  
-- **Selvakumar**  
-- **Parkavi**  
+- **Ram Nachi (Team Lead)**  
+- **Arunraj (Senior Developer)**  
+- **Selva Kumar (Developer)**
+- **Parkavi (Developer)**
+
+![image](https://github.com/user-attachments/assets/271e319f-dac9-43d4-8532-b2ff899f4ac8)
+
 
 Together, we have developed an innovative solution leveraging **SharePoint, Viva Connections, SPFx, and AI** to enhance digital collaboration and automation.  
 
