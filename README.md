@@ -8,9 +8,6 @@ We are **Team Techno Innovators**, consisting of:
 - **Selva Kumar (Developer)**
 - **Parkavi (Developer)**
 
-![image](https://github.com/user-attachments/assets/271e319f-dac9-43d4-8532-b2ff899f4ac8)
-
-
 Together, we have developed an innovative solution leveraging **SharePoint, Viva Connections, SPFx, and AI** to enhance digital collaboration and automation.  
 
 🎥 **Watch Our Hackathon Presentation Video:**  
