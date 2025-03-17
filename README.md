@@ -11,7 +11,7 @@ We are **Team Techno Innovators**, consisting of:
 Together, we have developed an innovative solution leveraging **SharePoint, Viva Connections, SPFx, and AI** to enhance digital collaboration and automation.  
 
 🎥 **Watch Our Hackathon Presentation Video:**  
-[![Hackathon Video](https://github.com/krctram/Techno-Innovators/blob/main/preview-sharepoint-hackathon.jpg)](https://drive.google.com/file/d/1UiKmtau--vwwNL4_onOEZE-otUQ0uT61/view?usp=sharing)  
+[![Hackathon Video](https://github.com/krctram/Techno-Innovators/blob/main/preview-sharepoint-hackathon.jpg)](https://drive.google.com/file/d/1UiKmtau--vwwNL4_onOEZE-otUQ0uT61/view)  
 
 ## 🚀 Solution Overview  
 
@@ -54,7 +54,7 @@ Our hackathon project demonstrates how **Microsoft 365 technologies** can create
 - Introduce **multi-platform access** via **Microsoft Teams integration**  
 
 🔗 **GitHub Repository:** [GitHub Link Here]  
-🎥 **Watch the Video:** [Click here](https://drive.google.com/file/d/1UiKmtau--vwwNL4_onOEZE-otUQ0uT61/view?usp=sharing)  
+🎥 **Watch the Video:** [Click here](https://drive.google.com/file/d/1UiKmtau--vwwNL4_onOEZE-otUQ0uT61/view)  
 
 ---
 
